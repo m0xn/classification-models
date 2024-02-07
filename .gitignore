@@ -1,0 +1,7 @@
+# Exlude all directories and files related to the virtual env 
+bin
+include
+lib
+lib64
+share
+pyvenv.cfg
